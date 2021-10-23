@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DB107S")(type "KiCad")(uri "${KIPRJMOD}/lib/DB107S/foot print/DB107S.pretty")(options "")(descr ""))
+  (lib (name "FOOTPRINT")(type "KiCad")(uri "${KIPRJMOD}/lib/BEEIRON/FOOTPRINT")(options "")(descr ""))
+)

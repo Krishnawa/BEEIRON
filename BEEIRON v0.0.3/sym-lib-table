@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "DB107S")(type "KiCad")(uri "${KIPRJMOD}/lib/DB107S/DB107S.kicad_sym")(options "")(descr ""))
+  (lib (name "BTB26-600")(type "Legacy")(uri "${KIPRJMOD}/lib/btb26/BTB26-600.lib")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Graphics/Graphics.kicad_sym")(options "")(descr ""))
+)
