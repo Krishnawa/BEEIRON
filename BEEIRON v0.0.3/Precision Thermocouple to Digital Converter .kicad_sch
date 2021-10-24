@@ -33,14 +33,16 @@
             (xy -1.524 -0.508)
             (xy 1.524 -0.508)
           )
-          (stroke (width 0.3302)) (fill (type none))
+          (stroke (width 0.3302) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -1.524 0.508)
             (xy 1.524 0.508)
           )
-          (stroke (width 0.3048)) (fill (type none))
+          (stroke (width 0.3048) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "C_Small_1_1"
@@ -78,7 +80,8 @@
       )
       (symbol "R_0_1"
         (rectangle (start -1.016 -2.54) (end 1.016 2.54)
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "R_1_1"
@@ -120,14 +123,16 @@
             (xy -1.27 1.27)
             (xy -1.27 -1.27)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 1.27 0)
             (xy -1.27 0)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
@@ -136,7 +141,8 @@
             (xy -1.27 0)
             (xy 1.27 1.27)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "1N4148W_1_1"
@@ -173,12 +179,17 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "Jumper_2_Open_0_0"
-        (circle (center -2.032 0) (radius 0.508) (stroke (width 0)) (fill (type none)))
-        (circle (center 2.032 0) (radius 0.508) (stroke (width 0)) (fill (type none)))
+        (circle (center -2.032 0) (radius 0.508) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (circle (center 2.032 0) (radius 0.508) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
       )
       (symbol "Jumper_2_Open_0_1"
-        (arc (start -1.524 1.27) (end 1.524 1.27) (radius (at 0 -0.762) (length 2.54) (angles 126.9 53.1))
-          (stroke (width 0)) (fill (type none))
+        (arc (start 1.524 1.27) (mid 0 1.778) (end -1.524 1.27)
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "Jumper_2_Open_1_1"
@@ -215,64 +226,76 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "MAX31856_0_1"
-        (arc (start 0.508 3.175) (end -0.762 3.175) (radius (at -0.127 3.175) (length 0.635) (angles 0.1 179.9))
-          (stroke (width 0.254)) (fill (type none))
-        )
-        (circle (center -0.127 -2.54) (radius 1.27) (stroke (width 0.254)) (fill (type outline)))
-        (rectangle (start 0.508 -1.905) (end -0.762 0)
-          (stroke (width 0.254)) (fill (type outline))
-        )
         (rectangle (start -10.16 12.7) (end 10.16 -12.7)
-          (stroke (width 0.254)) (fill (type background))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type background))
+        )
+        (circle (center -0.127 -2.54) (radius 1.27) (stroke (width 0.254))           (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type outline))
         )
         (polyline
           (pts
             (xy -0.762 0.635)
             (xy -0.127 0.635)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.762 1.27)
             (xy -0.127 1.27)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.762 1.905)
             (xy -0.127 1.905)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.762 2.54)
             (xy -0.127 2.54)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.762 3.175)
             (xy -0.762 0)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.762 3.175)
             (xy -0.127 3.175)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0.508 3.175)
             (xy 0.508 0)
           )
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (rectangle (start 0.508 -1.905) (end -0.762 0)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (arc (start 0.508 3.175) (mid -0.127 3.81) (end -0.762 3.175)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "MAX31856_1_1"
@@ -359,21 +382,24 @@
             (xy -0.762 1.27)
             (xy 0 2.54)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 0)
             (xy 0 2.54)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 2.54)
             (xy 0.762 1.27)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "+3.3V_1_1"
@@ -403,34 +429,40 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "Earth_Protective_0_1"
-        (circle (center 0 -3.81) (radius 2.54) (stroke (width 0)) (fill (type none)))
+        (circle (center 0 -3.81) (radius 2.54) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
         (polyline
           (pts
             (xy -0.635 -4.445)
             (xy 0.635 -4.445)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.127 -5.08)
             (xy 0.127 -5.08)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 -3.81)
             (xy 0 0)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 1.27 -3.81)
             (xy -1.27 -3.81)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "Earth_Protective_1_1"
@@ -469,7 +501,8 @@
             (xy -1.27 -1.27)
             (xy 0 -1.27)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "GND_1_1"

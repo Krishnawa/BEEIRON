@@ -412,6 +412,47 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "f7cf3e5b-f01d-4ac7-bdec-75f6e60a0261",
+      ""
+    ],
+    [
+      "81d8fac9-88ab-4f65-8d7c-75b7461b0d2d",
+      "Input Voltage Regulator"
+    ],
+    [
+      "5747f36c-6353-4af5-8887-d975c4b59fc7",
+      "Bypass Capacitors"
+    ],
+    [
+      "f4593a3a-9b25-4a9c-9773-531786e6ac42",
+      "MountingHole_Pad"
+    ],
+    [
+      "ad28fc81-0631-4b8a-95d4-d1706be3d5c5",
+      "Controller"
+    ],
+    [
+      "8c76e9bc-5035-43bf-bf86-0d7aa14274e9",
+      "Precision Thermocouple to Digital Converter "
+    ],
+    [
+      "63eba4bd-b46a-4e78-b8b1-a4c70878a252",
+      "Connectors"
+    ],
+    [
+      "461a828d-03d9-46dc-8cc2-304e7fb319b8",
+      "Power Electronics"
+    ],
+    [
+      "efe07833-bd87-41cb-bce3-e4b1582ce3b9",
+      "LED"
+    ],
+    [
+      "11c7e2c3-12b8-4769-b026-ca5614e61f55",
+      "Current_Sensor"
+    ]
+  ],
   "text_variables": {}
 }
