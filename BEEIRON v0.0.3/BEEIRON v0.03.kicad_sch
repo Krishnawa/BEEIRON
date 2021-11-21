@@ -631,7 +631,6 @@
   )
 
 
-
   (polyline (pts (xy 275.59 116.84) (xy 275.59 118.11))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 359dc015-2a76-4d3c-8daf-92d206ca6e62)
