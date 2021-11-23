@@ -349,10 +349,10 @@
     )
   )
 
-  (junction (at 193.04 102.87) (diameter 0) (color 0 0 0 0))
-  (junction (at 180.34 116.84) (diameter 0) (color 0 0 0 0))
-  (junction (at 118.11 104.14) (diameter 0) (color 0 0 0 0))
   (junction (at 180.34 102.87) (diameter 0) (color 0 0 0 0))
+  (junction (at 180.34 116.84) (diameter 0) (color 0 0 0 0))
+  (junction (at 193.04 102.87) (diameter 0) (color 0 0 0 0))
+  (junction (at 118.11 104.14) (diameter 0) (color 0 0 0 0))
   (junction (at 193.04 116.84) (diameter 0) (color 0 0 0 0))
 
   (polyline (pts (xy 12.7 20.32) (xy 283.21 20.32))

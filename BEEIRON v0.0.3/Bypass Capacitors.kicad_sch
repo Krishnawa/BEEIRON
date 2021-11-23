@@ -150,12 +150,12 @@
     )
   )
 
-  (junction (at 144.78 90.17) (diameter 0) (color 0 0 0 0))
-  (junction (at 137.16 90.17) (diameter 0) (color 0 0 0 0))
-  (junction (at 151.13 109.22) (diameter 0) (color 0 0 0 0))
-  (junction (at 143.51 109.22) (diameter 0) (color 0 0 0 0))
   (junction (at 137.16 109.22) (diameter 0) (color 0 0 0 0))
+  (junction (at 137.16 90.17) (diameter 0) (color 0 0 0 0))
+  (junction (at 144.78 90.17) (diameter 0) (color 0 0 0 0))
   (junction (at 151.13 90.17) (diameter 0) (color 0 0 0 0))
+  (junction (at 143.51 109.22) (diameter 0) (color 0 0 0 0))
+  (junction (at 151.13 109.22) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 144.78 87.63) (xy 144.78 90.17))
     (stroke (width 0) (type default) (color 0 0 0 0))
