@@ -24,3 +24,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+#Backup folder
+dir_to_ignore/BEEIRON v0.03-backups
