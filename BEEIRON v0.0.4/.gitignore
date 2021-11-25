@@ -25,4 +25,4 @@ fp-info-cache
 *.xml
 *.csv
 #Backup folder
-dir_to_ignore/BEEIRON v0.03-backups
+dir_to_ignore/BEEIRON v0.04-backups
