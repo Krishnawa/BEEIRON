@@ -1,18 +1,18 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.0-rc1-unknown-b471945224~144~ubuntu20.04.1*
-G04 #@! TF.CreationDate,2021-11-25T10:13:17+04:00*
-G04 #@! TF.ProjectId,BEEIRON v0.03,42454549-524f-44e2-9076-302e30332e6b,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Profile,NP*
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-01-24T12:15:06+04:00*%
+%TF.ProjectId,BEEIRON v0.0,42454549-524f-44e2-9076-302e302e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.0-rc1-unknown-b471945224~144~ubuntu20.04.1) date 2021-11-25 10:13:17*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-01-24 12:15:06*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-G04 #@! TA.AperFunction,Profile*
+%TA.AperFunction,Profile*%
 %ADD10C,0.100000*%
-G04 #@! TD*
+%TD*%
 G04 APERTURE END LIST*
 D10*
 X181000000Y-64000000D02*

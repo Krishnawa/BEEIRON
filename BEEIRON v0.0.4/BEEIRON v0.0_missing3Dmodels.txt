@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2022-01-21 11:59
+### Printed by checking_3D_models plugin
+Board file: /home/krishnawa/Krishnawa/Kicad/BEEIRON/BEEIRON v0.0.4/BEEIRON v0.0.kicad_pcb
+3D missing models written to:
+/home/krishnawa/Krishnawa/Kicad/BEEIRON/BEEIRON v0.0.4/BEEIRON v0.0_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']
